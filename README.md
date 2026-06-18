@@ -1,30 +1,67 @@
-<h1 align="center">Hi 👋, I'm Kunal Nimbalkar</h1>
-<h3 align="center">Aspiring Data Scientist with a keen interest in spatial analytics</h3>
+# Hi, I'm Kunal Nimbalkar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knimbalkar03&label=Profile%20views&color=0e75b6&style=flat" alt="knimbalkar03" /> </p>
+### Data & BI Analyst | Football Analytics | Spatial Intelligence
 
-- 🔭 I’m currently working on **Food Delivery Time Prediction**
+Mumbai, India 🇮🇳
 
-- 🌱 I’m currently learning **Deep Learning and Advance Modelling**
+---
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+## 💼 Professional Experience
 
-- 🤝 I’m looking for help with **Data Science and Spatial Analytics**
+Data & BI Analyst with 2+ years across fintech and ESG domains.
+Building Power BI dashboards, Alteryx ETL pipelines, and automated MIS reporting.
 
-- 💬 Ask me about **AI,ML,Statistics**
+**Current focus:** Transitioning into Football Analytics — applying spatial analysis
+and data skills to break down the beautiful game.
 
-- 📫 How to reach me **Kunalnimbalkar97@gmail.com**
+---
 
-- ⚡ Fun fact **People think I am funny**
+## ⚽ Football Analytics Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kunal nimbalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal nimbalkar" height="30" width="40" /></a>
-</p>
+### 1. 2022 FIFA World Cup Final — Argentina vs France
+Shot map + cumulative xG race across 120 minutes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🔗 [Read on Substack](https://open.substack.com/pub/thespatialscoutt/p/argentina-didnt-just-win-the-2022)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knimbalkar03&show_icons=true&locale=en" alt="knimbalkar03" /></p>
+### 2. ISL 2021/22 — Mumbai City 5-1 Mohun Bagan
+Shot map, pass network & pressing heatmap — three angle match breakdown.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knimbalkar03&" alt="knimbalkar03" /></p>
+🔗 [Read on Substack](https://open.substack.com/pub/thespatialscoutt/p/how-mumbai-city-dismantled-mohun)
+
+---
+
+## 📊 Professional Projects
+
+### Next Word Prediction (NLP / Deep Learning)
+LSTM-based sequence model for real-time next-word prediction.
+
+### Food Delivery Time Prediction (Spatial Analytics)
+Predictive delivery timeline model using geospatial and traffic datasets.
+
+### Vehicle Number Plate Recognition (Computer Vision)
+End-to-end OpenCV pipeline for automated licence plate detection.
+
+---
+
+## 🛠 Tools & Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat)
+
+**Football specific:** StatsBomb · mplsoccer · FBref
+
+---
+
+## 🎓 Education
+- MSc Data Science & Spatial Analytics — Symbiosis Institute of Geoinformatics
+- BSc Statistics — KJ Somaiya College
+
+---
+
+## 📬 Connect
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://thespatialscoutt.substack.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TheSpatialScout)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalnimbalkar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kunalnimbalkar97@gmail.com)
